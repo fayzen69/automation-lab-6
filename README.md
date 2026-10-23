@@ -9,3 +9,4 @@
    - requirements.txt: зависимости Python-проекта
    - .gitignore: правила исключения временных файлов
    - .github/workflows/main.yml: CI-пайплайн
+Добавлено в ветке feature-update
